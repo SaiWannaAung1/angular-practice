@@ -5,7 +5,7 @@
   "projects": { 
     "angular-practice": {
       "projectType": "application",
-      "schematics": {
+      "schematics": { 
         "@schematics/angular:component": {
           "style": "scss"
         }
